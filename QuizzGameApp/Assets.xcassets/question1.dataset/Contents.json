@@ -1,0 +1,19 @@
+{
+  "data" : [
+    {
+      "filename" : "question1.webp",
+      "idiom" : "universal"
+    },
+    {
+      "idiom" : "ipad"
+    },
+    {
+      "idiom" : "ipad",
+      "subtype" : "mac-catalyst"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
